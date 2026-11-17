@@ -1,4 +1,8 @@
 function login(){
+<<<<<<< HEAD
 console.log("username: Tanvi");
+=======
+console.log("username: Venkat");
+>>>>>>> feature
 console.log("password: 12356789");
 }
