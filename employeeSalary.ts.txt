@@ -1,0 +1,8 @@
+function registration(){
+console.log("username: Sri Lakshmi");
+console.log("password: 123456789");
+console.log("phone Number: 9988776655");
+console.log("Email id: abc@gmail.com");
+console.log("emp id: 779933");
+console.log("Salary: 14Lpa")
+}
